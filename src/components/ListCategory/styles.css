@@ -1,0 +1,9 @@
+.list-devices {
+    list-style-type: none;
+    position: absolute;
+    margin-left: 310px;
+}
+
+.list-devices-child {
+    list-style-type: none;
+}

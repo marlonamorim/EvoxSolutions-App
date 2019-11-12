@@ -1,0 +1,14 @@
+.btn-success {
+    background-color: #09d3ac;
+    border-color: transparent;
+    color: #fff;
+    width: 86px;
+    height: 28px;
+}
+
+.list-categories {
+    width: 250px;
+    margin-left: -429px;
+    position: absolute;
+    height: 30px;
+}
